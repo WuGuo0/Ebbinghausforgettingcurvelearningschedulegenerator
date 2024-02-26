@@ -4,24 +4,12 @@
 
 此软件可根据你需要学习的章节目录或者其它各种知识归纳的列表生成一个Excel表格，极大的方便了学习生活。
 
-![image-20240226215748977](C:\Users\17253\AppData\Roaming\Typora\typora-user-images\image-20240226215748977.png)
-
 #### 使用教程：
 
 1、运行main()，出现程序窗口。
 
-2、根据提示依次输入您的输入信息，如下图所示：
+2、根据提示依次输入您的输入信息。
 
-![image-20240226220608274](C:\Users\17253\AppData\Roaming\Typora\typora-user-images\image-20240226220608274.png)
-
-3、点击生成按钮，就会在所输入的路径生成一张Excel表格。如下图所示：
-
-![image-20240226220740741](C:\Users\17253\AppData\Roaming\Typora\typora-user-images\image-20240226220740741.png)
-
-![image-20240226220813022](C:\Users\17253\AppData\Roaming\Typora\typora-user-images\image-20240226220813022.png)
-
-![image-20240226220845855](C:\Users\17253\AppData\Roaming\Typora\typora-user-images\image-20240226220845855.png)
+3、点击生成按钮，就会在所输入的路径生成一张Excel表格。
 
 4、点击关闭或者选择清除按钮继续使用。
-
-![image-20240226221013595](C:\Users\17253\AppData\Roaming\Typora\typora-user-images\image-20240226221013595.png)
